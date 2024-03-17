@@ -11,7 +11,7 @@ Some of our partners are:
 * Reflexer
 
 <br clear="left"/>
-
+<!-- 
 ----
 
 <div align="center">
@@ -35,4 +35,4 @@ Some of our partners are:
     </tr>
 </table>
 
-</div>
+</div> -->
