@@ -11,7 +11,6 @@ Some of our partners are:
 * Reflexer
 
 <br clear="left"/>
-<br>
 
 ----
 
