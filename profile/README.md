@@ -5,9 +5,10 @@ Our commitment is to a financial future that's open, decentralized, and accessib
 
 Some of our partners are:
 
-* Connext &mdash; Say something about it
-* Yearn &mdash; Say something about it
-* Optimism &mdash; Say something about it
-* Reflexer &mdash; Say something about it
+* Connext
+* Yearn
+* Optimism
+* Reflexer
+* And more...
 
 <br clear="left"/>
