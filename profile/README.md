@@ -9,6 +9,5 @@ Some of our partners are:
 * Yearn
 * Optimism
 * Reflexer
-* And more...
 
 <br clear="left"/>
