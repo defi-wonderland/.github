@@ -1,38 +1,10 @@
 <img align="left" src="https://github.com/defi-wonderland/.github/raw/main/assets/gh-org-banner-light.png#gh-light-mode-only" width="400">
 <img align="left" src="https://github.com/defi-wonderland/.github/raw/main/assets/gh-org-banner-dark.png#gh-dark-mode-only" width="400">
 
-Our commitment is to a financial future that's open, decentralized, and accessible to all. To turn this vision into reality, we partner with the best teams in the world and support them in any way we can.
+We're a group of developers, researchers, and data scientists with one thing in common: we all love building cool sh*t. [DeFi sucks](https://defi.sucks/), but we are here to make it better.
 
-Some of our partners are:
+Our mission is to discover, partner with, and empower innovators to create open, permissionless, decentralized financial solutions. We pledge to stand by our partners, working with and supporting them in every way possible.
 
-* Connext
-* Yearn
-* Optimism
-* Reflexer
+We’re partners with some of the most relevant and successful protocols in web3, including Optimism, Aztec, Connext, Yearn, Reflexer, and more.
 
 <br clear="left"/>
-<!-- 
-----
-
-<div align="center">
-
-### Hiring
-
-<table>
-    <tr>
-        <td>
-            <b><a href="LINK_TO_SOLIDITY_MAESTRO_POSITION">⚡️ Solidity Maestro</a></b>
-        </td>
-        <td>
-            <b><a href="LINK_TO_SCRIPTING_EXPERT_POSITION">🧑‍💻 Scripting Expert</a></b>
-        </td>
-        <td>
-            <b><a href="LINK_TO_UI_EXPERT_POSITION">👨‍🎨 UI Expert</a></b>
-        </td>
-        <td>
-            <b><a href="LINK_TO_RESEARCH_SCOUTER_POSITION">🔎 Research Scouter</a></b>
-        </td>
-    </tr>
-</table>
-
-</div> -->
