@@ -1,10 +1,10 @@
 <img align="left" src="https://github.com/defi-wonderland/.github/raw/main/assets/gh-org-banner-light.png#gh-light-mode-only" width="400">
 <img align="left" src="https://github.com/defi-wonderland/.github/raw/main/assets/gh-org-banner-dark.png#gh-dark-mode-only" width="400">
 
-We're a group of developers, researchers, and data scientists with one thing in common: we all love building cool sh*t. [DeFi sucks](https://defi.sucks/), but we are here to make it better.
+Wonderland is Ethereum’s leading core development group — long-term collaborators behind Optimism, Aztec, Aerodrome, and more.
 
-Our mission is to discover, partner with, and empower innovators to create open, permissionless, decentralized financial solutions. We pledge to stand by our partners, working with and supporting them in every way possible.
+We partner with top protocols to solve web3’s toughest technical challenges with simple, elegant solutions.
 
-We’re partners with some of the most relevant and successful protocols in web3, including Optimism, Aztec, Connext, Yearn, Reflexer, and more.
+Want to work with some of the sharpest and most unhinged minds in crypto? [Apply to work with us](https://apply.wonderland.xyz/).
 
 <br clear="left"/>
